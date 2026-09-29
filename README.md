@@ -1,27 +1,86 @@
-<h1 align="center">Hi 👋, I'm Niloy Roy</h1>
-<h3 align="center">A passionate frontend developer from BD</h3>
+# Hi, I'm Niloy Roy
 
-- 🌱 I’m currently learning **Next.js • TypeScript • MongoDB • Full-Stack Development**
+### 💻 Aspiring Full-Stack Web Developer | Bangladesh 🇧🇩
 
-- 👨‍💻 All of my projects are available at [Available on my GitHub repositories](Available on my GitHub repositories)
+I'm a passionate web development student who enjoys learning new technologies and building web applications.
 
-- 💬 Ask me about **Web Development, Coding, and Technology**
+- 🌱 Currently learning **Next.js, TypeScript, MongoDB, and Better Auth**
+- 💻 Building projects to improve my frontend and backend development skills
+- 🚀 Exploring modern web technologies and full-stack development
+- 🎯 My goal is to become a professional Full-Stack Web Developer
+- 🎸 Outside coding, I enjoy playing guitar, cycling, and gardening
 
-- 📫 How to reach me **iamniloyroy@gmail.com**
+---
 
-- 📄 Know about my experiences [Check out my LinkedIn profile and GitHub project](Check out my LinkedIn profile and GitHub project)
+## 🛠️ Tech Stack & Tools
 
-- ⚡ Fun fact **🚴 Fun fact: I love cycling, playing guitar, and exploring nature.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,git,github,vscode&perline=6" alt="My Tech Stack" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niloy022&show_icons=true&locale=en&layout=compact" alt="niloy022" /></p>
+### 🏋️ FitLog — Fitness Tracking App
+A fitness application for exploring workouts, managing workout plans, and saving exercises.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niloy022&show_icons=true&locale=en" alt="niloy022" /></p>
+**Technologies:** Next.js, TypeScript, Tailwind CSS
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niloy022&" alt="niloy022" /></p>
+### 🌐 Developer Conference Website
+A responsive website for a developer conference, featuring speakers, event information, and pricing plans.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/niloy022">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/niloy-roy-47041143b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:iamniloyroy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+📧 **Email:** iamniloyroy@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=niloy022&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Niloy's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloy022&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=niloy022&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## ✨ Fun Fact
+
+I love cycling in nature, playing guitar, and exploring new things through coding!
+
+---
+
+⭐ *Thanks for visiting my profile. Feel free to explore my repositories!*
