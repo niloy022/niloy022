@@ -1,36 +1,44 @@
-# Hi, I'm Niloy Roy
+#Hi, I'm Niloy Roy
 
-### 💻 Aspiring Full-Stack Web Developer | Bangladesh 🇧🇩
+### 💻 Aspiring Full-Stack Web Developer 🇧🇩
 
-I'm a passionate web development student who enjoys learning new technologies and building web applications.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Development+Student;Learning+Frontend+%26+Backend;Building+Modern+Web+Projects;Future+Full-Stack+Developer)](https://git.io/typing-svg)
+
+---
+
+## 💫 About Me
+
+I'm Niloy Roy, a web development student from Bangladesh who enjoys learning new technologies and building useful web applications.
 
 - 🌱 Currently learning **Next.js, TypeScript, MongoDB, and Better Auth**
-- 💻 Building projects to improve my frontend and backend development skills
+- 💻 Building projects to improve my frontend and backend skills
 - 🚀 Exploring modern web technologies and full-stack development
-- 🎯 My goal is to become a professional Full-Stack Web Developer
+- 🎯 Working towards becoming a professional Full-Stack Developer
 - 🎸 Outside coding, I enjoy playing guitar, cycling, and gardening
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,git,github,vscode&perline=6" alt="My Tech Stack" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,git,github,vscode&perline=6" alt="Tech Stack" />
 </p>
+
+---
 
 ## 🚀 Featured Projects
 
-### 🏋️ FitLog — Fitness Tracking App
-A fitness application for exploring workouts, managing workout plans, and saving exercises.
+### 🏋️ FitLog — Fitness Tracking Web App
 
-**Technologies:** Next.js, TypeScript, Tailwind CSS
+A fitness web application for exploring workouts, managing daily workout plans, and saving exercises.
+
+**Tech Stack:** Next.js · TypeScript · Tailwind CSS
 
 ### 🌐 Developer Conference Website
-A responsive website for a developer conference, featuring speakers, event information, and pricing plans.
 
-**Technologies:** HTML, CSS, JavaScript
+A responsive conference website featuring event information, speakers, pricing plans, and a modern landing page.
+
+**Tech Stack:** HTML · CSS · JavaScript
 
 ---
 
@@ -48,31 +56,19 @@ A responsive website for a developer conference, featuring speakers, event infor
   </a>
 </p>
 
-📧 **Email:** iamniloyroy@gmail.com
+📧 **Email:** [iamniloyroy@gmail.com](mailto:iamniloyroy@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=niloy022&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Niloy's GitHub Stats"
-  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=niloy022&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloy022&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloy022&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=niloy022&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=niloy022&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -83,4 +79,6 @@ I love cycling in nature, playing guitar, and exploring new things through codin
 
 ---
 
-⭐ *Thanks for visiting my profile. Feel free to explore my repositories!*
+<p align="center">
+  ⭐ Thanks for visiting my profile! Have a great day.
+</p>
