@@ -161,7 +161,7 @@ A responsive conference website featuring speakers, event schedules, pricing pla
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=✨+Thanks+for+visiting+my+profile!;🚀+Keep+Learning%2C+Keep+Building!;💻+See+you+again+soon!"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Keep+Learning%2C+Keep+Building!;See+you+again+soon!"
     alt="Thanks for visiting animation"
   />
 </p>
@@ -174,3 +174,4 @@ A responsive conference website featuring speakers, event schedules, pricing pla
     alt="Profile Views"
   />
 </p>
+
