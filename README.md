@@ -82,20 +82,3 @@ pricing plans, venue information, and more.
 `HTML` · `CSS` · `JavaScript`
 
 ---
-
-## 📚 Currently Learning
-
-```text
-JavaScript
-   ↓
-TypeScript
-   ↓
-React
-   ↓
-Next.js
-   ↓
-MongoDB
-   ↓
-Authentication
-   ↓
-Full-Stack Development
