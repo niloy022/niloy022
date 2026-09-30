@@ -9,7 +9,14 @@
 <h1 align="center">Hi 👋, I'm Niloy Roy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Next.js+%26+TypeScript+Learner;Future+Full-Stack+Developer;Building+Modern+Web+Applications" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Next.js+%26+TypeScript+Learner;Future+Full-Stack+Developer;Building+Modern+Web+Applications"
+    alt="Typing Animation"
+  />
+</p>
+
+<p align="center">
+  <b>💻 Building modern web experiences | 🚀 Learning every day | 🌱 Growing into a Full-Stack Developer</b>
 </p>
 
 ---
@@ -18,15 +25,14 @@
 
 I'm a student and aspiring **Full-Stack Web Developer** from Bangladesh.
 
-I enjoy building modern, responsive, and user-friendly web applications.
-Currently, I'm focusing on improving my JavaScript and TypeScript skills and learning modern technologies like Next.js, MongoDB, and Better Auth.
+I enjoy building modern, responsive, and user-friendly web applications. Currently, I'm focusing on improving my JavaScript and TypeScript skills while learning modern technologies like Next.js, MongoDB, and Better Auth.
 
-* 🌱 Currently learning **Next.js, TypeScript & Backend Development**
-* 💻 Building projects to improve my practical skills
-* 🔐 Exploring **Better Auth & Authentication**
-* 🗄️ Learning **MongoDB & Database Management**
-* 🚀 Working towards becoming a **Full-Stack Developer**
-* 🎯 Goal: Build real-world web applications
+- 🌱 Currently learning **Next.js, TypeScript & Backend Development**
+- 💻 Building projects to improve my practical skills
+- 🔐 Exploring **Better Auth & Authentication**
+- 🗄️ Learning **MongoDB & Database Management**
+- 🚀 Working towards becoming a **Full-Stack Developer**
+- 🎯 Goal: Build real-world web applications
 
 ---
 
@@ -54,11 +60,11 @@ Currently, I'm focusing on improving my JavaScript and TypeScript skills and lea
 
 ## 🎯 My Coding Journey
 
-* 🌱 Learning modern web development with **Next.js and TypeScript**
-* 💻 Building projects to gain practical experience
-* 🔐 Exploring authentication with **Better Auth**
-* 🗄️ Learning database management with **MongoDB**
-* 🚀 Working towards becoming a **Full-Stack Developer**
+- 🌱 Learning modern web development with **Next.js and TypeScript**
+- 💻 Building projects to gain practical experience
+- 🔐 Exploring authentication with **Better Auth**
+- 🗄️ Learning database management with **MongoDB**
+- 🚀 Working towards becoming a **Full-Stack Developer**
 
 ---
 
@@ -68,7 +74,7 @@ Currently, I'm focusing on improving my JavaScript and TypeScript skills and lea
 
 A fitness tracking web application where users can explore workouts, manage their daily plans, and save exercises for later.
 
-**Tech Stack:**
+**Tech Stack:**  
 `Next.js` · `TypeScript` · `Tailwind CSS`
 
 ---
@@ -77,21 +83,21 @@ A fitness tracking web application where users can explore workouts, manage thei
 
 A responsive conference website featuring speakers, event schedules, pricing plans, venue information, and more.
 
-**Tech Stack:**
+**Tech Stack:**  
 `HTML` · `CSS` · `JavaScript`
 
 ---
 
 ## 📌 Current Goals
 
-* [ ] Improve my JavaScript skills
-* [ ] Improve my TypeScript skills
-* [ ] Build more React & Next.js projects
-* [ ] Learn backend development
-* [ ] Learn MongoDB deeply
-* [ ] Learn authentication systems
-* [ ] Build full-stack web applications
-* [ ] Deploy more real-world projects
+- [ ] Improve my JavaScript skills
+- [ ] Improve my TypeScript skills
+- [ ] Build more React & Next.js projects
+- [ ] Learn backend development
+- [ ] Learn MongoDB deeply
+- [ ] Learn authentication systems
+- [ ] Build full-stack web applications
+- [ ] Deploy more real-world projects
 
 ---
 
@@ -106,58 +112,3 @@ A responsive conference website featuring speakers, event schedules, pricing pla
 
 🌐 Developer Conference Website
    └── HTML + CSS + JavaScript
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=niloy022&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    alt="Niloy Roy's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloy022&layout=compact&theme=transparent&hide_border=true"
-    alt="Niloy Roy's Top Languages"
-  />
-</p>
-
----
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-  <a href="https://github.com/niloy022">
-   
-  </a>
-
-  <a href="https://www.linkedin.com/in/niloy-roy-47041143b/">
-    
-  </a>
-
-  <a href="mailto:iamniloyroy@gmail.com">
-   
-  </a>
-
-</p>
-
-
----
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=niloy022&label=Profile%20Views&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
