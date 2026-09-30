@@ -129,9 +129,15 @@ Full-Stack Development
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <a href="https://github.com/niloy022">
+    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/niloy-roy-47041143b/?isSelfProfile=true)">
+    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
 </p>
 
 ---
@@ -139,3 +145,4 @@ Full-Stack Development
 <p align="center">
   <b>💻 Learning. Building. Improving. 🚀</b>
 </p>
+
