@@ -126,19 +126,16 @@ Full-Stack Development
 
 ---
 
-## 🤝 Let's Connect
+---
 
 <p align="center">
-  <a href="https://github.com/niloy022">
-    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+projects!;Let's+build+something+amazing+together!+🚀" />
 </p>
 
----
+<p align="center">
+  💻 Learning • Building • Improving • 🚀 Growing
+</p>
+
 
 ## 👀 Profile Views
 
