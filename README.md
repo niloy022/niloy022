@@ -128,15 +128,6 @@ A responsive conference website featuring speakers, event schedules, pricing pla
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=niloy022&show_icons=true&hide=issues&theme=transparent&hide_border=true"
-    alt="GitHub Activity"
-  />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
