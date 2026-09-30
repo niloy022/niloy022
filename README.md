@@ -150,13 +150,31 @@ A responsive conference website featuring speakers, event schedules, pricing pla
     />
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/niloy-roy-47041143b/">
     <img
       src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
 
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=niloy022&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    alt="Niloy Roy's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloy022&layout=compact&theme=transparent&hide_border=true"
+    alt="Niloy Roy's Top Languages"
+  />
 </p>
 
 ---
@@ -168,19 +186,4 @@ A responsive conference website featuring speakers, event schedules, pricing pla
     src="https://komarev.com/ghpvc/?username=niloy022&label=Profile%20Views&style=for-the-badge"
     alt="Profile Views"
   />
-</p>
-
----
-
-<!-- ======================= ENDING ======================= -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Thanks+for+watching!;Feel+free+to+explore+my+projects!;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+%F0%9F%9A%80"
-    alt="Profile Ending Animation"
-  />
-</p>
-
-<p align="center">
-  <b>💻 Learning • Building • Improving • 🚀 Growing</b>
 </p>
