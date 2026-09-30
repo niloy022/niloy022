@@ -1,11 +1,15 @@
+<!-- ======================= BANNER ======================= -->
+
 <p align="center">
-  <img src="./banner.png" width="100%" />
+  <img src="./banner.png" width="100%" alt="Niloy Roy Banner" />
 </p>
+
+<!-- ======================= INTRO ======================= -->
 
 <h1 align="center">Hi 👋, I'm Niloy Roy</h1>
 
 <p align="center">
-  Frontend Developer • Next.js & TypeScript Learner • Future Full-Stack Developer
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Next.js+%26+TypeScript+Learner;Future+Full-Stack+Developer;Building+Modern+Web+Applications" alt="Typing Animation" />
 </p>
 
 ---
@@ -28,22 +32,22 @@ Currently, I'm focusing on improving my JavaScript and TypeScript skills and lea
 
 ## 🛠️ Technologies & Tools
 
-### Frontend
+### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Skills" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" alt="Backend Skills" />
 </p>
 
-### Tools
+### 🧰 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Tools" />
 </p>
 
 ---
@@ -106,54 +110,77 @@ A responsive conference website featuring speakers, event schedules, pricing pla
 
 ---
 
-## 📚 Currently Learning
-
-```text
-JavaScript
-   ↓
-TypeScript
-   ↓
-React
-   ↓
-Next.js
-   ↓
-MongoDB
-   ↓
-Authentication
-   ↓
-Full-Stack Development
-```
-
----
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+projects!;Let's+build+something+amazing+together!+🚀" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=niloy022&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    alt="Niloy Roy's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  💻 Learning • Building • Improving • 🚀 Growing
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloy022&layout=compact&theme=transparent&hide_border=true"
+    alt="Niloy Roy's Top Languages"
+  />
 </p>
 
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=niloy022&show_icons=true&hide=issues&theme=transparent&hide_border=true"
+    alt="GitHub Activity"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+  <a href="https://github.com/niloy022">
+    <img
+      src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+</p>
+
+---
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niloy022&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img
+    src="https://komarev.com/ghpvc/?username=niloy022&label=Profile%20Views&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
-<p align="center">
-  <b>💻 Learning. Building. Improving. 🚀</b>
-</p>
-
-</p>
-
----
+<!-- ======================= ENDING ======================= -->
 
 <p align="center">
-  <b>💻 Learning. Building. Improving. 🚀</b>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Thanks+for+watching!;Feel+free+to+explore+my+projects!;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+%F0%9F%9A%80"
+    alt="Profile Ending Animation"
+  />
 </p>
 
+<p align="center">
+  <b>💻 Learning • Building • Improving • 🚀 Growing</b>
+</p>
