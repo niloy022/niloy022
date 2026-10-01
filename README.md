@@ -133,21 +133,38 @@ A responsive conference website featuring speakers, event schedules, pricing pla
 <p align="center"> <img src="https://streak-stats.demolab.com?user=niloy022&theme=transparent&hide_border=true" alt="Niloy Roy's GitHub Streak" /> </p>
 
 ---
-🤝 Let's Connect
+## 🤝 Let's Connect
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/niloy022">
+        <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/niloy-roy-47041143b/">
+        <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:iamniloyroy@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/Mr_Roy_022">
+        <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/niloy_roy09">
+        <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/niloy022"> <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>&nbsp;
-
-<a href="https://www.linkedin.com/in/niloy-roy-47041143b/"> <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>&nbsp;
-
-<a href="mailto:iamniloyroy@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>&nbsp;
-
-<a href="https://x.com/Mr_Roy_022"> <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /> </a>&nbsp;
-
-<a href="https://www.instagram.com/niloy_roy09"> <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a>
-
-</p>
 
 
 <!-- ======================= THANK YOU ======================= -->
