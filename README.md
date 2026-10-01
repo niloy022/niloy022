@@ -6,7 +6,7 @@
 
 <!-- ======================= INTRO ======================= -->
 
-<h1 align="center">Hi 👋, I'm Niloy Roy</h1>
+<h1 align="center">Hi,I'm Niloy Roy🙋‍♂️</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Next.js+%26+TypeScript+Learner;Future+Full-Stack+Developer;Building+Modern+Web+Applications" alt="Typing Animation" />
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a student and aspiring **Full-Stack Web Developer** from Bangladesh.
+I'm a student and aspiring **Full-Stack Web Developer** from Bangladesh
 
 I enjoy building modern, responsive, and user-friendly web applications.
 Currently, I'm focusing on improving my JavaScript and TypeScript skills and learning modern technologies like Next.js, MongoDB, and Better Auth.
@@ -84,14 +84,15 @@ A responsive conference website featuring speakers, event schedules, pricing pla
 
 ## 📌 Current Goals
 
-* [ ] Improve my JavaScript skills
-* [ ] Improve my TypeScript skills
-* [ ] Build more React & Next.js projects
-* [ ] Learn backend development
-* [ ] Learn MongoDB deeply
-* [ ] Learn authentication systems
-* [ ] Build full-stack web applications
-* [ ] Deploy more real-world projects
+* 🟨 Improve my JavaScript skills
+* 🔷 Improve my TypeScript skills
+* ⚛️ Build more React & Next.js projects
+* 🖥️ Learn backend development
+* 🍃 Learn MongoDB deeply
+* 🔐 Learn authentication systems
+* 🚀 Build full-stack web applications
+* 🌍 Deploy more real-world projects
+
 
 ---
 
@@ -128,33 +129,21 @@ A responsive conference website featuring speakers, event schedules, pricing pla
 
 ---
 
-## 🤝 Let's Connect
+🤝 Let's Connect
 
 <p align="center">
 
-  <a href="https://github.com/niloy022">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+<a href="https://github.com/niloy022"> <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
 
-  <a href="https://www.linkedin.com/in/niloy-roy-47041143b/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/niloy-roy-47041143b/"> <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
 
-  <a href="mailto:iamniloyroy@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
+<a href="https://x.com/Mr_Roy_022"> <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /> </a>
+
+<a href="https://www.instagram.com/niloy_roy09"> <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a>
+
+<a href="mailto:iamniloyroy@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
 
 </p>
-
 ---
 
 <!-- ======================= THANK YOU ======================= -->
