@@ -128,7 +128,11 @@ A responsive conference website featuring speakers, event schedules, pricing pla
 </p>
 
 ---
+🔥 GitHub Streak
 
+<p align="center"> <img src="https://streak-stats.demolab.com?user=niloy022&theme=transparent&hide_border=true" alt="Niloy Roy's GitHub Streak" /> </p>
+
+---
 🤝 Let's Connect
 
 <p align="center">
@@ -137,14 +141,15 @@ A responsive conference website featuring speakers, event schedules, pricing pla
 
 <a href="https://www.linkedin.com/in/niloy-roy-47041143b/"> <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
 
+<a href="mailto:iamniloyroy@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
+
 <a href="https://x.com/Mr_Roy_022"> <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /> </a>
 
 <a href="https://www.instagram.com/niloy_roy09"> <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a>
 
-<a href="mailto:iamniloyroy@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
 
 </p>
----
+
 
 <!-- ======================= THANK YOU ======================= -->
 
